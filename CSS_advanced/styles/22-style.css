@@ -192,5 +192,5 @@ ul.row {
 [data-selection-theme="dark"] {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
-    background:var(--color-black);
+    background: var(--color-black);
 }
