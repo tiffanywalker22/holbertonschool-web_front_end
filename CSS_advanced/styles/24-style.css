@@ -215,5 +215,10 @@ ul.row {
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
+}
+
+.card-services a:hover {
+    color: var(--color-white);
+    background-color: var(--color-primary);
     text-decoration: none;
 }
